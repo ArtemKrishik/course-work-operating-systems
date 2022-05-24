@@ -15,3 +15,4 @@
 Technologies used:
 * Java 8
 * Maven as project builder
+* Xchart for graphic display of chart 
